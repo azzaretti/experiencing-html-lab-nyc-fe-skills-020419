@@ -1,1 +1,1 @@
-doctype ht
+<!doctype html>
